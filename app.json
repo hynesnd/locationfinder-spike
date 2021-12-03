@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "locationfinder-spike",
+    "slug": "locationfinder-spike",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "locationfinder-spike"
+}
